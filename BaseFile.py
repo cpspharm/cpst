@@ -16,4 +16,4 @@ driver.find_element_by_xpath("//img[@src='../../../assets/images/logo.png']").is
 # menu_menu = wait.until(EC.presence_of_element_located(By.XPATH, "//img[@src='../../../assets/images/logo.png']"))
 print("Displays")
 print("Displays")
-print("Displays")
+
